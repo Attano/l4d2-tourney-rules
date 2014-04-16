@@ -116,7 +116,7 @@ competitor who drops from a roster must explain to the tournament directors why 
 ##Section 4: Servers
 Game servers will be selected according to the following criteria:
 
-#####4.1.1 Hosting
+#####4.1 Hosting
 Servers must be chosen from the official server list.
 
 #####4.2 Configuration
@@ -133,13 +133,18 @@ Servers with tickrates ranging from 30-100 are allowed.
 #####4.5 DOS protection
 Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferred.
 
-#####4.6.1 International draws
+#####4.6 Continental and international draws
+
+#####4.6.1 Home/Away/Neutral system (HAN)
 Matches will be organised into a home/away/neutral system with the intention of providing the closest possible levels of overall ping equality. All possible scenarios will be considered, with the most fair and less inconvenient options being advised by the tournament directors.
 
 #####4.6.2 !cup command
 It is mandatory for home and away matches to have the !cup command in use (type !cup before first half of map 1 goes live) to enforce boss spawn consistency in international round draws. If this rule is not adhered to, then a match restart is necessary. However, it is only optional in singular neutral matches, but still highly recommended to ensure intuitive boss spawns for each individual map.
 
-#####4.6.3 Allocated servers
+#####4.6.3 Server crash
+If the server crashes then it will wipe out the !cup progression. In order to rectify this, it is mandatory (only in international home/away matches) to load up the first chapter of the campaign, type !cup during ready-up and then load up the chapter on which the match was at during the crash.
+
+#####4.6.4 Allocated servers
 Note: this table is still subject to change based on any further server testing carried out.
 
 Region | Europe | Russia | North America | South America | Asia | Oceania  
