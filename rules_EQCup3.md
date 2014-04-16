@@ -134,9 +134,12 @@ Servers with tickrates ranging from 30-100 are allowed.
 Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferred.
 
 #####4.6.1 International draws
-Matches will be organised into a home/away/neutral system with the intention of providing the closest possible levels of overall ping equality. All possible scenarios will be considered, with the most fair options being enforced by the tournament directors.
+Matches will be organised into a home/away/neutral system with the intention of providing the closest possible levels of overall ping equality. All possible scenarios will be considered, with the most fair and less inconvenient options being advised by the tournament directors.
 
-#####4.6.2 Allocated servers
+#####4.6.2 !cup command
+It is mandatory for home and away matches to have the !cup command in use (type !cup before first half of map 1 goes live) to enforce boss spawn consistency in international round draws. If this rule is not adhered to, then a match restart is necessary. However, it is only optional in singular neutral matches, but still highly recommended to ensure intuitive boss spawns for each individual map.
+
+#####4.6.3 Allocated servers
 Note: this table is still subject to change based on any further server testing carried out.
 
 Region | Europe | Russia | North America | South America | Asia | Oceania  
