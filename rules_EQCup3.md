@@ -106,10 +106,7 @@ Finales are optional; it is the choice of the home team to decide if finales are
 #####3.1 Registration
 Teams may register by by signing up [here.](http://steamcommunity.com/groups/eqcup2/discussions/0/540736965908236393/)
 
-#####3.2 Registration deadline
-The deadline for registrations is Sunday 4th May 00:00 GMT.
-
-#####3.3 Double registration
+#####3.2 Double registration
 Competitors may be registered for only one team in the tournament. A
 competitor who drops from a roster must explain to the tournament directors why they have left the team and wish to play for a different one. The player must gain admin approval and be aiming for a team with less than the maximum limit of 6 players, before being cleared to join a new team. Changing teams is disallowed for any player who belongs to a team that has already been knocked out of the competition.
 
@@ -186,77 +183,71 @@ extensions be granted.
 ######5.1.3 Scheduling duties
 Any player on the roster may perform scheduling duties.
 
-#####5.2 Tardiness
-Each team has 15 minutes after the scheduled time to have 4 players in
-the server and readied up. The standard penalty for failure will be a
-forfeit loss of the match.
 
-Each team is permitted one (1) 10-minute break per match, and only
-between rounds. Extra breaks require the consent of both the other
-team, and the admins or casters.
-
-#####5.3 Casting
+#####5.2 Casting
 The players agree that the matches may be casted according to the usual
 process. Access to mumble servers for ‘war rooms’ is appreciated
 but not required.
 
-#####5.4 Spectators and admins
+#####5.3 Spectators and admins
 
-######5.4.1 Requests for Oversight
+######5.3.1 Requests for Oversight
 Any team may request that an admin be present at their match. The staff
 will honour reasonable requests to the best of their ability, weighing
 conflicting obligations, the significance of the match to the tournament
 results, and the seriousness of concerns about improper behaviourr that
 may take place.
 
-######5.4.2 Spectators
+######5.3.2 Spectators
 Aside from staff and authorized casters, no spectators whatsoever will
 be allowed in the server during matches.
 
-#####5.5 Ringers
+#####5.4 Ringers
 Ringers are allowed, so long as they are not registered with another competing team. A player who has already been called as a ringer for another team, may only ring if the opposing team is fine with it.
 
-######5.5.1 Double agents
+######5.4.1 Double agents
 No registered competitor may ring for another team unless their team has
 withdrawn from the tournament or they have been removed from the roster.
 
-#####5.6 Pauses
+#####5.5 Pauses
 
-######5.6.1 Excessive pausing
+######5.5.1 Excessive pausing
 Intentionally affecting the result of the round through excessive
 pausing may be brought to the attention of the tournament directors.
 
 The penalty for abuse of the pause function can range from a points penalty to a more severe form of punishment.
 
-#####5.7 Screenshots and demos
+#####5.6 Screenshots and demos
 
-######5.7.1 Demos are mandatory
+######5.6.1 Demos are mandatory
 Each participant is required to record and save demos of their match
 play. All demos must be stored until the end of the tournament, and
 must be submitted promptly to a tournament director on request.
 
-######5.7.2 How-to record demos
+######5.6.2 How-to record demos
 To record a demo, open the console and type `record <demoname>`.  It is
 not necessary to re-record after a map change, but it is necessary to
 re-record after disconnecting from the server for any reason.
 
-######5.7.3 Screenshots are mandatory
+######5.6.3 Screenshots are mandatory
 Each team is allowed up to one (1) pause per round to request
 screenshots.
 
 Each competitor must take a screenshot whenever asked by anyone in the
 server.
 
-######5.7.4 Privacy
-Competitors are never required to provide demos or screenshots to anyone
-except the staff. Although there is no basis for an expectation of
-privacy, they are considered confidential and will be shared only for:
+######5.6.4 Demo investigations
+Tournament administrators have the authority to request and investigate any demos
+believed to contain footage of suspicious activity from any participant. Casters
+and participants may request demos from another participant for the same reason,
+as long as the casters and participants were in the same match that the supposed
+moment(s) occured.
 
-- Asking second opinions of skilled players who are trusted to keep what
-  they find in confidence
-- To expose wrongdoing to the community if, and only if, it is discovered
+In the interests of good faith and vigilance, it is mandatory for the approached 
+participant(s) to comply with this request. But no participant is obliged to hand over 
+their demos to viewers or participants with no involvement in the specified match.
 
-######5.7.5 Responsibility is with you
+######5.6.5 Responsibility is with you
 It is each competitor’s individual responsibility to ensure that demos
 and screenshots are recorded, uncorrupted, and submitted in a timely
 manner.
@@ -265,9 +256,9 @@ Failure to submit demos or screenshots on the request of the staff will
 result at minimum in a zero score for the associated rounds, and
 possible suspension of the player from the tournament.
 
-#####5.8 Illegal techniques
+#####5.7 Illegal techniques
 
-######5.8.1 AI pathing exploits
+######5.7.1 AI pathing exploits
 It is illegal to intentionally exploit AI pathing by moving to an area
 that causes NPC infected to stop attacking. This includes re-entering the
 safe-room and standing behind a dynamic prop that the witch cannot
@@ -276,28 +267,28 @@ that causes her to climb over objects repeatedly.
 
 The minimum penalty for intentionally exploiting AI pathing will be 500 points deducted.
 
-######5.8.2 Tank parking
+######5.7.2 Tank parking
 If an AI tank stops advancing for any reason, the survivors must be
 notified in a reasonable time. Intentionally positioning a tank so that
 it cannot advance when AI controlled is not allowed.
 
 The minimum penalty for intentional tank parking will be 500 points deducted at the time of the infraction.
 
-######5.8.3 Spectating
+######5.7.3 Spectating
 Players may spectate if and only if they have unintentionally become
 stuck in a clip brush or other entity and cannot move.
 
 The minimum penalty for abuse of the spectate command will be a penalty of 200 points. The maximum penalty will be decided by the tournament directors if deemed necessary.
 
-#####5.9 Glitches
+#####5.8 Glitches
 
-######5.9.1 Rescue vehicles
+######5.8.1 Rescue vehicles
 In the event of a finale rescue vehicle glitch (most common on Swamp
 Fever, but also possible on Dark Carnival and Hard Rain) the half will
 be replayed following a restart round. If necessary the final scores
 will be calculated manually.
 
-######5.9.2 Unclearable survivors
+######5.8.2 Unclearable survivors
 If a pinned survivor is unclearable after an infected player gains
 control of the tank, either team can request that the round be
 replayed. If requested, the tournament directors may review demos and
