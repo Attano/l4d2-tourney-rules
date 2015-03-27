@@ -109,29 +109,27 @@ Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferr
 #####4.6 Continental and international draws
 
 #####4.6.1 Neutral Matches
-Continental matches (EU vs EU, NA vs NA, etc) will be played on their respective home servers. For international matches, th. All possible scenarios will be considered, with the most fair and less inconvenient options being advised by the tournament directors.
+Continental matches (EU vs EU, NA vs NA, etc) will be played on their respective home servers. International matches will be played on the most neutral server possible for both teams - the servers that offer the least amount of ping disparity between the two teams.
 
 #####4.6.2 PCP
-In international matches, one player from either team must go to console and type ping and then either take a screenshot, or copy-paste the information to a league admin. This is done to determine Ping Compensation Points (PCP) - this is necessary due to some servers for neutral international matches not always offering the best in ping equality for both teams.
+In international matches, one player from either team must go to console and type ping and then either take a screenshot, or copy-paste the information to a league admin. This is done to determine Ping Compensation Points (PCP) - this is necessary as there is never exact ping equality for both teams.
 
-#####4.6.3 Server crash
-If the server crashes then it will wipe out the !cup progression. In order to rectify this, it is mandatory (only in international home/away matches) to load up the first chapter of the campaign, type !cup during ready-up and then load up the chapter on which the match was at during the crash.
-
-#####4.6.4 Allocated servers
+#####4.6.3 Allocated servers
 Note: this table is still subject to change based on any further server testing carried out.
 
-Region | Europe | Russia | North America | South America | Asia | Oceania  
---- | --- | --- | --- | --- | --- | ---  
-Europe | Frankfurt | Frankfurt | *Frankfurt/NY* | Dallas | Dallas | LA  
-Russia | Frankfurt | Frankfurt | *Frankfurt/NY* | Dallas | Chicago | LA  
-North America | *Frankfurt/NY* | *Frankfurt/NY* | Chicago or Dallas | *Dallas/SA* | *Dallas/Tokyo* | *LA/Sydney*  
-South America | Dallas | Dallas | *Dallas/SA* | SA | Dallas | LA  
-Asia | Dallas | Chicago | *Dallas/Tokyo* | Dallas | Tokyo or SG | LA  
-Oceania | LA | Dallas | *LA/Sydney* | LA | LA | Sydney 
+Region | Europe | Russia | North America | South America | Japan | Asia | Oceania  
+--- | --- | --- | --- | --- | --- | --- | ---  
+Europe | Europe | *Europe* | *East Coast* | *East Coast* | *Dallas* | *West Coast* | *West Coast*  
+Russia | *Europe* | Russia | *East Coast* | *East Coast* | *Chicago* | *Dallas/West Coast* | *West Coast* 
+North America | *East Coast* | *East Coast* | Chicago/Dallas | *East Coast* | *West Coast* | *West Coast* | *West Coast*  
+South America | *East Coast* | *East Coast* | *East Coast* | *SA* | *West Coast* | *West Coast* | *West Coast*
+Japan | *Dallas* | *Chicago* | *West Coast* | *West Coast* | Japan | *Asia* | *West Coast*
+Asia | *Dallas* | *Chicago* | *West Coast* | *West Coast* | *Asia* | *Asia* | *West Coast*  
+Oceania | *West Coast* | *West Coast* | *West Coast* | *West Coast* | *West Coast* | *West Coast* | *West Coast* 
 
-Single Server = Single neutral match
+Server = Continental Matches
 
-*Server/Server* = Home/Away matches
+*Server* = International Matches (PCP mandatory)
 
 
 ##Section 5: Match scheduling and match rules
