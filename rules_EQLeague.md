@@ -112,22 +112,44 @@ Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferr
 Continental matches (EU vs EU, NA vs NA, etc) will be played on their respective home servers. International matches will be played on the most neutral server possible for both teams - the servers that offer the least amount of ping disparity between the two teams.
 
 #####4.6.2 PCP
-In international matches, one player from either team must go to console and type ping and then either take a screenshot, or copy-paste the information to a league admin. This is done to determine Ping Compensation Points (PCP) - this is necessary as there is never exact ping equality for both teams.
+PCP = Ping Compensation Points - it's a system that further balances neutral games by recognising that one team is disadvantaged more than the other in terms of collective latency and thus compensates a team which would normally be faced with an uphill struggle and fighting a losing battle if it were playing a team of equal calibre with the palpable home advantage. In international matches, one player from either team must go to console and type ping and then either take a screenshot, or copy-paste the information to a league admin. Note that the ping values displayed on the TAB menu are NOT the figures used for determining the true latency readings of each player and thus they are not valid when it comes to calculating PCP. This is done to determine Ping Compensation Points (PCP) - this is necessary as there is never exact ping equality for both teams in an international contest. PCP will also be mandatory for a few continental matches but only if the ping disparity is great enough to justify it - if 3 players have yellow pings or 2 players have a minimum of one red and one yellow ping when the opposing team is comprised of at least 3 players with green ping, then PCP must be taken into account.
 
-#####4.6.3 Allocated servers
+#####4.6.3 PCP Calculation
+If there are no league admins available to help calculate the PCP bonus, then any player who takes the screenshot can do it. The basic formula for it is this followed by an example of how to determine the exact values:
+
+(Total Latency of Away Team - Total Latency of Home Team) x Total Campaign Value = PCP
+
+Away Team has players with: 150 ms, 123 ms, 101 ms and 136 ms = 510 ms of Total Latency
+Home Team has players with: 66 ms, 59 ms, 50 ms and 45 ms = 220 ms of Total Latency
+
+Now, 510 - 220 = 290 ms difference. 290 is this example's value of the first part of the formula. In order to determine the Total Campaign Value, we must equate the value of the ms difference to 1 so that we get a fair and accurate base for a campaign multiplier. Then, we equate the custom map distance of each individual map in a campaign to its decimal value (for example, a map of 500 distance points = 0.5 on the Total Campaign Value). This way, the system works regardless of whether teams choose to play finales or not. Let's pick Hard Rain as an example while taking the optional finale into consideration:
+
+Base multiplier of 1 + (Map 1) 0.4 + (Map 2) 0.6 + (Map 3) 0.6 + (Map 4) 0.4 [+ (Map 5) 0.6] = 3 [3.6]
+
+Now that we have the Total Campaign Value, we can complete the formula and work out what the PCP should be. So here goes the final formula:
+
+(510 - 220) x 3 = 870 PCP - with the finale included, 290 x 3.6 = 1044 PCP
+
+#####4.6.4 Ping Spikes
+If a player is experiencing higher latency that is neither expected nor indicative of the connection from their location to the designated server, then both teams must wait until it has settled down before typing 'ping' in console and then starting the match. If the ping does not settle down but the team still wishes to continue fielding the player with the legitimately troublesome connection, their latency will be calculated to be the average of the other members of the team in order to proceed with PCP.
+
+#####4.6.5 PCP Exploitation
+If the admins suspect that any player or team is deliberately raising their latency artifically for the sole purpose of exploiting the PCP system to score extra compensation points that they are not entitled to, then the violation of this rule will constitute as an act of cheating and will be severely punished according to how the league directors deem fit. The penalty can range from match bans or league bans for individual players, or the outright disqualification of an entire team if there are multiple offenders deemed guilty of breaking this rule.
+
+#####4.6.6 Allocated servers
 Note: this table is still subject to change based on any further server testing carried out.
 
 Region | Europe | Russia | North America | South America | Japan | Asia | Oceania  
 --- | --- | --- | --- | --- | --- | --- | ---  
-Europe | Europe | *Europe* | *East Coast* | *East Coast* | *Dallas* | *West Coast* | *West Coast*  
-Russia | *Europe* | Russia | *East Coast* | *East Coast* | *Chicago* | *Dallas/West Coast* | *West Coast* 
-North America | *East Coast* | *East Coast* | Chicago/Dallas | *East Coast* | *West Coast* | *West Coast* | *West Coast*  
+Europe | EUROPE | *Europe* | *East Coast* | *East Coast* | *Dallas* | *West Coast* | *West Coast*  
+Russia | *Europe* | RUSSIA | *East Coast* | *East Coast* | *Chicago* | *Dallas/West Coast* | *West Coast* 
+North America | *East Coast* | *East Coast* | CHICAGO/DALLAS | *East Coast* | *West Coast* | *West Coast* | *West Coast*  
 South America | *East Coast* | *East Coast* | *East Coast* | *SA* | *West Coast* | *West Coast* | *West Coast*
-Japan | *Dallas* | *Chicago* | *West Coast* | *West Coast* | Japan | *Asia* | *West Coast*
+Japan | *Dallas* | *Chicago* | *West Coast* | *West Coast* | JAPAN | *Asia* | *West Coast*
 Asia | *Dallas* | *Chicago* | *West Coast* | *West Coast* | *Asia* | *Asia* | *West Coast*  
-Oceania | *West Coast* | *West Coast* | *West Coast* | *West Coast* | *West Coast* | *West Coast* | *West Coast* 
+Oceania | *West Coast* | *West Coast* | *West Coast* | *West Coast* | *West Coast* | *West Coast* | *Oceania* 
 
-Server = Continental Matches
+SERVER = Continental Matches
 
 *Server* = International Matches (PCP mandatory)
 
@@ -359,6 +381,10 @@ and `cl_interp_ratio` values is forbidden for the remainder of the match. It is 
 Aside from exceptions provided in Section 6.2.1, enabling or disabling
 addons or modifying files after the first ready-up is strictly
 forbidden, even when disconnecting or reconnecting from the server.
+
+#####6.6 Cheating
+
+Any act of cheating (which includes any form of aim assistance, wallhacking, mathacking, speedhacking and more) will result in the offending individual player being banned from the remainder of the league regardless of whether it occurred during an official match or outside of it. If more than one player from the same team has been caught cheating during the duration of the league, then the entire team will be disqualified from the league. Any loopholes that are exercised due to potential lack of clarification in the rules and which the admins deem to be a violation of this rule, will be discussed and decided upon to the discretion of the league directors, while reserving the right to hand out similar penalties.
 
 ##Section 7: Behavior and etiquette
 
