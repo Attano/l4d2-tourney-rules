@@ -5,86 +5,60 @@ tournaments.
 
 - [Homepage](https://github.com/Attano/l4d2-tourney-rules)
 
-##Section 1: Tournament administration
+##Section 1: League administration
 
 #####1.1 Staff
 
-The Tournament Director will be:
+The League Director will be:
 - [Dragon](http://steamcommunity.com/id/dragonchowmein)
 
-The Assistant Tournament Director(s) will be:
+The Assistant League Director(s) will be:
 - [Visor](http://steamcommunity.com/profiles/76561198009400276/)
 
 #####1.2 Disputes
-The Tournament directors are the arbiters and court of last resort for
+The League directors are the arbiters and court of last resort for
 all disputes. Their decisions are final and cannot be appealed.
 
 #####1.3 Sanctions
-The tournament directors reserve the right to impose any sanction on any
+The League directors reserve the right to impose any sanction on any
 team or individual player at their sole discretion as circumstances may
 warrant.
 
 #####1.4 Conflicts of interest
-Staff may participate in the tournament. Where there may be an
-appearance of a conflict of interest, a tournament director will yield
+Staff may participate in the league. Where there may be an
+appearance of a conflict of interest, a league director will yield
 to a counterpart if possible.
 
 #####1.5 Official communication
 Official communication will take place via [the official cup group](http://steamcommunity.com/groups/eqcup2) and [forum on L4Dnation.com](http://www.l4dnation.com/community-news/eq-nations-world-cup-2014/).
 
 #####1.6 Changes
-The tournament directors reserve the right to make any changes or updates deemed necessary regarding anything to do with the tournament.
+The league directors reserve the right to make any changes or updates deemed necessary regarding anything to do with the league.
 
 #####1.7 Server bans
-The tournament directors do not have the authority to demand server admins rescind player bans on their servers if a banned player is trying to play a match. It is to the server admin's discretion whether the player's ban may be temporarily rescinded.
+The league directors do not have the authority to demand server admins rescind player bans on their servers if a banned player is trying to play a match. It is to the server admin's discretion whether the player's ban may be temporarily rescinded.
 
-##Section 2: Tournament format, standings, and tiebreaks
+##Section 2: League format, standings, and tiebreaks
 
 #####2.1 Format
-This will be a Swiss System tournament. A match win will
-score 1 point; a tie scores a half point; a loss or forfeit scores 0
-points. After the opening phase has been completed, the final knockout phase will commence.
+This will be an international league comprising an even number of competing teams. On the league table, a match win will score 3 points; a tie scores 1 point; a loss or forfeit scores 0 points. Because this is a league format, there will be no secondary phase or elimination brackets.
 
 ######2.1.1 Pairings
-After the registration deadline, the registered participants will be
-paired together in the 1st round according to which continental community they belong to. In subsequent rounds, partcipants will be paired at random against others with the same record of Won : Lost games.
+All teams will play each other once in the international league, the order in which they play each other is completely arbitrary and is determined throughout the league's duration regardless of the respective performances of all the teams. 
 
 ######2.1.2 Double jeopardy
-Under no circumstances will two competitors face each other more than
-once during the primary phase of the tournament.
+Under no circumstances will two competitors face each other more than once during the entirety of the league.
 
 ######2.1.3 Awarding a bye
-In the event that a round must be paired with an uneven number of
-participants, a bye will be awarded to the lowest ranked participant in
-the lowest score group. A bye scores a full point.
+In the event that a round must be paired with an uneven number of participants, a bye will be awarded at random to any one of the remaining teams.
 
 ######2.1.4 Tiebreakers
-Ties will be broken by the following criteria, descending (see [Buchholz-Median 
-tiebreak](http://www.swissperfect.com/tiebreak.htm#buchholz), also known as "Modified Median"):
-
-1. The sum of conventional scores of the teams each participant has
-defeated, excluding the lowest and highest (higher is better).
-2. The result of the head-to-head matchup of the tied participants, if
-applicable.
-
-######2.1.5 More information
-For information on the Swiss System, you can review the following
-links:
-
-* [Wikipedia](https://en.wikipedia.org/wiki/Swiss-system_tournament)
-* [World Chess Federation](http://www.fide.com/component/handbook/?id=84&view=article)
-* [Wizards of the Coast](http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf)
-
-If you have any further questions about the Swiss System, contact a
-Tournament Director or the author.
+If more than one team has achieved the same amount of points when the league season has concluded, ties in the league table will be decided by which teams have the higher average score per map (ASPM) which is calculated by taking the sum of all the total scores accumulated and then dividing that tally by the number of individual maps (4 or 5 maps per campaign) to give the ASMP.
 
 #####2.2 Deadlines
-Because the pairings are based on prior round scoring, the next round
-cannot be paired until all the results of the previous round have been
-reported.
+All teams must schedule and play their matches within the deadline. 
 
-Unless teams make the effort to communicate with the admins to explain any potential difficulties within reasonable time of the deadline, there will be a *ZERO TOLERANCE* policy for matches that
-remain unscheduled or unreported past the round deadline.
+Unless teams make the effort to communicate with the admins to explain any potential difficulties within reasonable time of the deadline, there will be a *ZERO TOLERANCE* policy for matches that remain unscheduled or unreported past the round deadline.
 
 #####2.3 Maps
 - Dead Center
@@ -92,23 +66,26 @@ remain unscheduled or unreported past the round deadline.
 - Swamp Fever
 - Hard Rain
 - The Parish
-- Carried Off
-- Warcelona
-- Fall in Death
+- No Mercy
+- Death Toll
+- Dead Air
+- Blood Harvest
+- Detour Ahead
+- Haunted Forest
+- Open Road
 
 All listed custom campaigns can be downloaded [here.](http://31.186.250.11/addons/)
 
 ######2.3.2 Finales
-Finales are optional; it is the choice of the home team to decide if finales are played. The only exception to this rule is on Dead Center and custom campaigns where it is mandatory to play finales.
+Finales are optional; it is the choice of the home team to decide if finales are played. The only exception to this rule is on custom campaigns and Dead Center where it is mandatory to play finales.
 
 ##Section 3: Team registration
 
 #####3.1 Registration
-Teams may register by by signing up [here.](http://steamcommunity.com/groups/eqcup2/discussions/0/540736965908236393/)
+Teams may register by signing up [here.](http://steamcommunity.com/groups/eqcup2/discussions/0/540736965908236393/)
 
 #####3.2 Double registration
-Competitors may be registered for only one team in the tournament. A
-competitor who drops from a roster must explain to the tournament directors why they have left the team and wish to play for a different one. The player must gain admin approval and be aiming for a team with less than the maximum limit of 6 players, before being cleared to join a new team. Changing teams is disallowed for any player who belongs to a team that has already been knocked out of the competition.
+Competitors may be registered for only one team in the league. A competitor who drops from a roster must explain to the league directors why they have left the team and wish to play for a different one. The player must gain admin approval and be aiming for a team with less than the maximum limit of 6 players, before being cleared to join a new team.
 
 ##Section 4: Servers
 Game servers will be selected according to the following criteria:
@@ -117,8 +94,7 @@ Game servers will be selected according to the following criteria:
 Servers must be chosen from the official server list.
 
 #####4.2 Configuration
-The server will have an up-to-date and working installation of the EQ 2.1
-configuration and plugins.
+The server will have an up-to-date and working installation of the EQ 2.2 configuration and plugins.
 
 #####4.3 Web-cast support
 Servers will have enough slots for a minimum of one cameraman, one caster, a cup admin and/or
@@ -132,11 +108,11 @@ Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferr
 
 #####4.6 Continental and international draws
 
-#####4.6.1 Home/Away/Neutral system (HAN)
-Matches will be organised into a home/away/neutral system with the intention of providing the closest possible levels of overall ping equality. All possible scenarios will be considered, with the most fair and less inconvenient options being advised by the tournament directors.
+#####4.6.1 Neutral Matches
+Continental matches (EU vs EU, NA vs NA, etc) will be played on their respective home servers. For international matches, th. All possible scenarios will be considered, with the most fair and less inconvenient options being advised by the tournament directors.
 
-#####4.6.2 !cup command
-It is mandatory for home and away matches to have the !cup command in use (type !cup before first half of map 1 goes live) to enforce boss spawn consistency in international round draws. If this rule is not adhered to, then a match restart is necessary. However, it is only optional in singular neutral matches, but still highly recommended to ensure intuitive boss spawns for each individual map.
+#####4.6.2 PCP
+In international matches, one player from either team must go to console and type ping and then either take a screenshot, or copy-paste the information to a league admin. This is done to determine Ping Compensation Points (PCP) - this is necessary due to some servers for neutral international matches not always offering the best in ping equality for both teams.
 
 #####4.6.3 Server crash
 If the server crashes then it will wipe out the !cup progression. In order to rectify this, it is mandatory (only in international home/away matches) to load up the first chapter of the campaign, type !cup during ready-up and then load up the chapter on which the match was at during the crash.
@@ -161,24 +137,20 @@ Single Server = Single neutral match
 ##Section 5: Match scheduling and match rules
 
 #####5.1 Rounds and scheduling
-Pairings and brackets for each round will be posted weekly on Monday.
+Pairings for each round will be posted weekly on Monday.
 
 Althought not mandatory, players can use the free online scheduling tool
 at [doodle.com](http://doodle.com): it is free, functional, does not
 require registration, and supports time zones.
 
 ######5.1.1 Scheduling deadline
-Matches must be scheduled before the following Wednesday at midnight.
-
 Teams are encouraged to begin negotiating the schedule early; delinquent
 scheduling must be brought to the attention of the staff before the
 deadline.
 
 ######5.1.2 Reporting deadline
 Results must be submitted, with a screenshot, by the following Sunday at
-midnight. Failure to report weekly round results before the deadline
-will result in a double forfeit. Under no circumstances whatsoever will
-extensions be granted.
+midnight. Failure to report weekly round results accompanied with a screenshot of the final score for confirmation, will be recorded in a score of 1-0 for the winning team instead of .
 
 ######5.1.3 Scheduling duties
 Any player on the roster may perform scheduling duties.
@@ -194,35 +166,35 @@ but not required.
 ######5.3.1 Requests for Oversight
 Any team may request that an admin be present at their match. The staff
 will honour reasonable requests to the best of their ability, weighing
-conflicting obligations, the significance of the match to the tournament
-results, and the seriousness of concerns about improper behaviourr that
+conflicting obligations, the significance of the match to the league
+results, and the seriousness of concerns about improper behaviour that
 may take place.
 
 ######5.3.2 Spectators
-Aside from staff and authorized casters, no spectators whatsoever will
+Aside from staff and authorised casters, no spectators whatsoever will
 be allowed in the server during matches.
 
 #####5.4 Ringers
-Ringers are allowed, so long as they are not registered with another competing team. A player who has already been called as a ringer for another team, may only ring if the opposing team is fine with it.
+Ringers are allowed, so long as they are not registered with another competing team. A player who has already been called as a ringer for another team, may only ring if the opposing team is fine with it. The minimum penalty for the violation of this rule will be an official warning to both the ringer and the team captain. The severity of the penalty may increase depending on certain circumstances which will be decided by the admins.
 
 ######5.4.1 Double agents
 No registered competitor may ring for another team unless their team has
-withdrawn from the tournament or they have been removed from the roster.
+withdrawn from the league or they have been removed from the roster.
 
 #####5.5 Pauses
 
 ######5.5.1 Excessive pausing
 Intentionally affecting the result of the round through excessive
-pausing may be brought to the attention of the tournament directors.
+pausing may be brought to the attention of the league directors.
 
-The penalty for abuse of the pause function can range from a points penalty to a more severe form of punishment.
+The penalty for abuse of the pause function can range from an official warning to a more severe form of punishment.
 
 #####5.6 Screenshots and demos
 
 ######5.6.1 Demos are mandatory
 Each participant is required to record and save demos of their match
-play. All demos must be stored until the end of the tournament, and
-must be submitted promptly to a tournament director on request.
+play. All demos must be stored until the end of the league, and
+must be submitted promptly to a league director on request.
 
 ######5.6.2 How-to record demos
 To record a demo, open the console and type `record <demoname>`.  It is
@@ -254,7 +226,7 @@ manner.
 
 Failure to submit demos or screenshots on the request of the staff will
 result at minimum in a zero score for the associated rounds, and
-possible suspension of the player from the tournament.
+possible suspension of the player from the league.
 
 #####5.7 Illegal techniques
 
@@ -272,13 +244,13 @@ If an AI tank stops advancing for any reason, the survivors must be
 notified in a reasonable time. Intentionally positioning a tank so that
 it cannot advance when AI controlled is not allowed.
 
-The minimum penalty for intentional tank parking will be 500 points deducted at the time of the infraction.
+The minimum penalty for intentional tank parking will be an official warning for the one responsible. The maximum penalty will be decided by the league directors if deemed necessary.
 
 ######5.7.3 Spectating
 Players may spectate if and only if they have unintentionally become
 stuck in a clip brush or other entity and cannot move.
 
-The minimum penalty for abuse of the spectate command will be a penalty of 200 points. The maximum penalty will be decided by the tournament directors if deemed necessary.
+The minimum penalty for abuse of the spectate command will be an official warning for the one responsible. The maximum penalty will be decided by the league directors if deemed necessary.
 
 #####5.8 Glitches
 
@@ -291,18 +263,18 @@ will be calculated manually.
 ######5.8.2 Unclearable survivors
 If a pinned survivor is unclearable after an infected player gains
 control of the tank, either team can request that the round be
-replayed. If requested, the tournament directors may review demos and
+replayed. If requested, the league directors may review demos and
 determine if the result of the replayed round will be used, or if some
 other action will be taken according to the circumstances.
 
 ##Section 6: Addons and configuration
 The following guidelines will assist the competitors in understanding
-the intentions of the tournament directors. However, the tournament
+the intentions of the league directors. However, the league
 directors may choose to sanction competitors for any addons or
 modifications at their sole and arbitrary discretion (per Section 1.3).
 
 All competitors are urged strongly to discuss any modifications with
-the tournament directors to ensure they are fully in compliance with
+the league directors to ensure they are fully in compliance with
 the rules before making any changes. The best way to avoid the severe
 penalties associated with bending or breaking these rules is to play
 with a stock configuration.
@@ -310,8 +282,7 @@ with a stock configuration.
 #####6.1 Penalties
 The minimum penalty for illegal modifications or addons is a forfeit
 loss for the match. There is no maximum penalty, which may include team
-expulsion from the tournament, forfeiture of already played matches, and
-forfeiture of team eligibility for any prizes.
+expulsion from the league and forfeiture of already played matches.
 
 #####6.2 Permitted modifications
 The following modifications are PERMITTED:
@@ -396,7 +367,7 @@ forbidden, even when disconnecting or reconnecting from the server.
 #####7.1 Conduct
 Players are expected to conduct themselves politely and professionally
 during the match. Abusive or harassing conduct toward other players,
-spectators, or tournament administrators will not be tolerated.
+spectators, or league administrators will not be tolerated.
 
 #####7.2 Sound effects
 Players may not use console commands or radial menus to trigger
