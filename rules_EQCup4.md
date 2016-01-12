@@ -31,10 +31,10 @@ appearance of a conflict of interest, a league director will yield
 to a counterpart if possible.
 
 #####1.5 Official communication
-Official communication will take place via [the official cup group](http://steamcommunity.com/groups/ne4d) and [forum on L4Dnation.com](http://www.l4dnation.com/equilibrium/equilibrium-cup-4-(eqc4)/msg46233/?topicseen#new).
+Official communication will take place via [the official cup group](http://steamcommunity.com/groups/ne4d).
 
 #####1.6 Changes
-The tournament directors reserve the right to make any changes or updates deemed necessary regarding anything to do with the tournament.
+The tournament directors reserve the right to make any changes or updates deemed necessary regarding anything to do with the tournament as it is ongoing.
 
 #####1.7 Server bans
 The tournament directors do not have the authority to demand server admins rescind player bans on their servers if a banned player is trying to play a match. It is to the server admin's discretion whether the player's ban may be temporarily rescinded.
@@ -74,8 +74,8 @@ All finales must be played with no exceptions.
 #####3.1 Registration
 Teams may register by signing up [here.]()
 
-#####3.2 Double registration
-Competitors may be registered for only one team in the tournament. A competitor who drops from a roster must explain to the tournament directors why they have left the team and wish to play for a different one. The player must gain admin approval and be aiming for a team with less than the maximum limit of 6 players, before being cleared to join a new team.
+#####3.2 No Team Changing
+Once the tournament goes live, participants will not be allowed to switch to another team. You are with your team for the entire duration of their participation.
 
 ##Section 4: Servers
 Game servers will be selected according to the following criteria:
@@ -84,7 +84,7 @@ Game servers will be selected according to the following criteria:
 Servers must be chosen where any tournament director is able to connect to spectate matches - servers where any of the tournament directors have zero access will not be permitted.
 
 #####4.2 Configuration
-The server will have an up-to-date and working installation of the EQ 3.0c configuration and plugins. Failure to use the wrong version of the configuration could render the result of a match null and void.
+The server will have an up-to-date and working installation of the EQ 3.0c configuration and plugins. Failure to use the correct version of the configuration will render the result of a match null and void.
 
 #####4.3 Web-cast support
 Servers will have enough slots for a minimum of one cameraman, one caster, a cup admin and/or
@@ -358,7 +358,7 @@ forbidden, even when disconnecting or reconnecting from the server.
 Any act of cheating (which includes any form of aim assistance, wallhacking, mathacking, speedhacking and more) will result in the offending individual player being banned from the remainder of the tournament regardless of whether it occurred during an official match or outside of it. If more than one player from the same team has been caught cheating during the duration of the tournament, then the entire team will be disqualified from the tournament. Any loopholes that are exercised due to potential lack of clarification in the rules and which the admins deem to be a violation of this rule, will be discussed and decided upon to the discretion of the tournament directors, while reserving the right to hand out similar penalties.
 
 #####6.7 POV Status
-Any player who is marked with POV status by the admins, is mandatorily required to stream all of the tournament matches they compete in, with lagless synchronisation and a virtual on-screen keyboard. Failure to comply with this rule will result in a punishment which will be decided at the admins' discretion.
+Any player who is marked with POV status by the admins, is mandatorily required to stream all of the tournament matches they compete in, with lagless synchronisation and a virtual on-screen keyboard. Failure to comply with this rule will result in the POV player serving a one-match ban and the team receiving a penalty of 1,000 points. If the same POV player breaches the rule a second time, they will be barred from competing any further in the tournament.
 
 ##Section 7: Behavior and etiquette
 
@@ -392,14 +392,3 @@ racist logos, or “shock” images.
 vim: filetype=markdown wrapmargin=79
 -->
 
-####Legal
-Copyright (C) 2014 by Ryan Delaney. Permission is granted to copy,
-distribute and/or modify this document under the terms of the GNU Free
-Documentation License, Version 1.3 or any later version published by the
-Free Software Foundation; with no Invariant Sections, no Front-Cover
-Texts, and no Back-Cover Texts. A copy of the license is included in the
-file titled "LICENSE".
-
-Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam
-logo are trademarks and/or registered trademarks of Valve Corporation.
-All other trademarks are property of their respective owners.
