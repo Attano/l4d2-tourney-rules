@@ -75,16 +75,16 @@ All finales must be played with no exceptions.
 Teams may register by signing up [here.]()
 
 #####3.2 Double registration
-Competitors may be registered for only one team in the tournament. A competitor who drops from a roster must explain to the tournamnt directors why they have left the team and wish to play for a different one. The player must gain admin approval and be aiming for a team with less than the maximum limit of 6 players, before being cleared to join a new team.
+Competitors may be registered for only one team in the tournament. A competitor who drops from a roster must explain to the tournament directors why they have left the team and wish to play for a different one. The player must gain admin approval and be aiming for a team with less than the maximum limit of 6 players, before being cleared to join a new team.
 
 ##Section 4: Servers
 Game servers will be selected according to the following criteria:
 
 #####4.1 Hosting
-Servers must be chosen where any duty tournament director has access to spectate matches.
+Servers must be chosen where any tournament director is able to connect to spectate matches - servers where any of the tournament directors have zero access will not be permitted.
 
 #####4.2 Configuration
-The server will have an up-to-date and working installation of the EQ 3.0c configuration and plugins.
+The server will have an up-to-date and working installation of the EQ 3.0c configuration and plugins. Failure to use the wrong version of the configuration could render the result of a match null and void.
 
 #####4.3 Web-cast support
 Servers will have enough slots for a minimum of one cameraman, one caster, a cup admin and/or
