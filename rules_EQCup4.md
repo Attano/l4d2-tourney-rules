@@ -101,7 +101,7 @@ Servers with DoS Protection are preferred.
 Domestic matches (EU vs EU, NA vs NA, etc) will be played on their respective home servers. International matches will be played on the most neutral server possible for both teams - the servers that offer the least amount of ping disparity between the two teams.
 
 #####4.6.2 Allocated servers
-Note: this table is still subject to change based on any further server testing carried out and does not take into account Rule 4.6.3 below which is reserved for exceptional circumstances.
+Note: this table is still subject to change based on any further server testing carried out and does not take into account Rule 4.6.3 below which is reserved for exceptional circumstances. If there are other server locations not listed below which would prove to be ideal for certain match draws, they may also be used (such as Colorado servers for NA teams).
 
 Region | Europe | Russia | North America | South America | Japan | Asia | Oceania  
 --- | --- | --- | --- | --- | --- | --- | ---  
