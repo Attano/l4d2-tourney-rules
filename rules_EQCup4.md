@@ -60,7 +60,6 @@ Unless teams make the effort to communicate with the admins to explain any poten
 - The Parish
 - Death Toll
 - Dead Air
-- Blood Harvest
 - Detour Ahead
 
 
@@ -119,7 +118,7 @@ SERVER = Continental Matches
 *Server* = International Matches
 
 ####4.6.3 International Consistency
-For international draws, it is deemed necessary to field the same players in both home and away matches in order to mitigate ping disparity as much as possible. Server locations may differ based on the range of pings within one/both teams (i.e. a team comprising of at least three West Coast players may use a server closer to home if they are playing a European team) but the exact rosters fielded must remain the same. Substitutions are only allowed in the event of any player being unable to participate in the other match, and will result in a points penalty of 250 in case the substituting player's latency is lower than that of the original player's.
+For international draws, it is deemed necessary to field the same players in both home and away matches in order to mitigate ping disparity as much as possible. Server locations may differ based on the range of pings within one/both teams (i.e. a team comprising of at least three West Coast players may use a server closer to home if they are playing a European team) but the exact rosters fielded must remain the same. Substitutions are only allowed in the event of any player being unable to participate in the other match, and will result in a variable points penalty calculated by the discrepancy of the substituting player's latency, should it be lower than that of the original player's.
 
 ##Section 5: Match scheduling and match rules
 
