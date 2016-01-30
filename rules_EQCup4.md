@@ -63,7 +63,7 @@ Unless teams make the effort to communicate with the admins to explain any poten
 - Detour Ahead
 
 
-All listed custom campaigns can be downloaded [here.](http://31.186.250.11/addons/)
+Detour Ahead can be downloaded [here.](http://www.gamemaps.com/details/2445)
 
 ######2.3.2 Finales
 All finales must be played with no exceptions.
