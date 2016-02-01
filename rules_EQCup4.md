@@ -53,7 +53,6 @@ All teams must schedule and play their matches within the deadline.
 Unless teams make the effort to communicate with the admins to explain any potential difficulties within reasonable time of the deadline, there will be a *ZERO TOLERANCE* policy for matches that remain unscheduled or unreported past the round deadline.
 
 #####2.3 Maps
-- Dead Center
 - Dark Carnival
 - Swamp Fever
 - Hard Rain
@@ -65,7 +64,7 @@ Unless teams make the effort to communicate with the admins to explain any poten
 
 Detour Ahead can be downloaded [here.](http://www.gamemaps.com/details/2445)
 
-######2.3.2 Finales
+######2.3.1 Finales
 All finales must be played with no exceptions.
 
 ##Section 3: Team registration
